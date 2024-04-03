@@ -173,8 +173,9 @@ nav li:first-child{
     display: grid;
     grid-template-columns:repeat(5,1fr);
     width:800px ;
-    padding-left: 50px;
+    padding-left:1px;
     gap: 20px;
+    
 }
 
 
